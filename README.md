@@ -1,4 +1,7 @@
 # cs320-01-test-repo
 
-Drew Guarnera
-Ellie Stroke
+## Ellie Stroke
+#### Prof. Guarnera
+## Erick Delgado
+## Ethan Kramer
+## Alex Delicer
